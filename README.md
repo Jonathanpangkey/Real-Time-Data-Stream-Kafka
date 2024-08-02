@@ -1,5 +1,5 @@
 # Springboot Kafka Demonstration
-This repository contains three projects demonstrating the use of Apache Kafka with Spring Boot. It starts with a basic demo, followed by separate producer and consumer applications.
+This repository contains three projects demonstrating the use of Apache Kafka with Spring Boot. It starts with a basic demo, followed by separate producer and consumer application.
 
 ## Projects Overview
 ### Kafka Demo
