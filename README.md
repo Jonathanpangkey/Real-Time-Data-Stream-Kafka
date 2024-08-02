@@ -22,5 +22,5 @@ This repository contains three projects demonstrating the use of Apache Kafka wi
 ## Usage
 - To use these projects, start by running Kafka locally.
 - Begin with the Kafka Demo project to understand the basics of Kafka integration with Spring Boot. Use the provided REST API endpoints to send test messages.
-- Then, move on to the Producer App. Start the application and hit the provided API endpoint to fetch real-time data from Wikimedia and publish it to the "wikimedia-stream" topic.
-- In the same time, run the Consumer App to listen for and log messages from the same topic.
+- Then, move on to the Producer App. Start the application and hit the provided API endpoint to fetch real-time stream data from Wikimedia and publish it to the "wikimedia-stream" topic.
+- In the same time, run the Consumer App to listen and log real time data from the same topic.
